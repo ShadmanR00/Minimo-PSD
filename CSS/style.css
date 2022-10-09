@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* Header Part Start */
+
+header{
+    width: 90%;
+    margin: auto;
+    overflow: auto;
+    margin-top: 30px;
+}
+
+.logo{
+    width: 20%;
+    float: left;
+}
+
+.logo img{
+
+}
+
+.menu{
+    width: 50%;
+    float: right;
+}
+
+.menu ul{
+    list-style: none;
+    float: right;
+}
+
+.menu ul li{
+    margin-left: 30px;
+    float: left;
+}
+
+.menu ul li a{
+    color: #626262;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+/* Header Part End */
+
+/* Banner Part Start */
+
+.banner{
+    width: 90%;
+    margin: auto;
+}
+
+.banner img{
+    width: 100%;
+}
+/* Banner Part End */
+
+/* Photodiary Part Start */
+
+.photodiary{
+    width: 80%;
+    margin: 70px auto;
+}
+
+.photodiary h5{
+    color: #b4ad9e;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.photodiary h1{
+    color: #c8c3b9;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.photodiary p{
+    font-size: 20px;
+    color: #626262;
+    margin-bottom: 20px;
+}
+
+.photodiary a{
+    color: #b4ad9e;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+/* Photodiary Part End */
+
